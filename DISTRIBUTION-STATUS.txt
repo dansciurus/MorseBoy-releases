@@ -1,0 +1,6 @@
+MORSE BOY v0.6.0 — DISTRIBUTION INFORMATION
+
+See DISTRIBUTION-TERMS.txt for the creator-approved attribution and sharing
+terms. Development source and Git history remain private and are not included.
+The game terms do not replace or restrict applicable third-party license terms.
+Attribution and applicable notices must accompany permitted sharing.

@@ -1,0 +1,20 @@
+Morse Boy v0.6.0
+Prepared: 2026-10-15
+Created by dansciurus (Big D), with ChatGPT assistance.
+ROM: MorseBoy.gb
+Bytes: 32768
+SHA-256: 763ba6691293d1bd7ed5c4befbb725dbd75e7adda061d8bfda9dddae684bc168
+Target: original Nintendo Game Boy
+Cartridge header: ROM ONLY (0x00); 32 KiB ROM (0x00); no cartridge RAM (0x00)
+Toolchain used for approved build: GBDK-2020 4.5.0
+
+The ROM is a byte-identical copy of the human-approved experimental build.
+No rebuild, patch, recompression of ROM contents or header change was made
+for packaging. The retained build record reports no compiler/linker warnings
+or errors. Nineteen regression suites were rerun against this frozen ROM.
+
+Screenshots: actual-ROM PyBoy captures, enlarged exactly 2x with nearest-neighbor scaling; RGB without metadata.
+No original-hardware compatibility or subjective audio certification claimed.
+Development source, build scripts, tests and symbols are intentionally private.
+Maintainer reproducibility instructions are retained outside this public ZIP.
+See SHA256SUMS.txt and MANIFEST.json for packaged-file identities.

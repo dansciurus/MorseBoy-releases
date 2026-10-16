@@ -1,0 +1,141 @@
+{
+  "package": "MorseBoy-v0.6.0",
+  "status": "v0.6.0 distribution package",
+  "creator_credit": "Created by dansciurus (Big D), with ChatGPT assistance.",
+  "rom_sha256": "763ba6691293d1bd7ed5c4befbb725dbd75e7adda061d8bfda9dddae684bc168",
+  "files": [
+    {
+      "path": "BUILD-INFO.txt",
+      "bytes": 1081,
+      "sha256": "aec22aa61608a136a2d9defc9de260b7d9158352bd6cb5e902accb4180b1a6b7",
+      "purpose": "ROM identity and preserved build provenance"
+    },
+    {
+      "path": "CHANGELOG.md",
+      "bytes": 771,
+      "sha256": "b6f0c0e5f2c1e0ed07983b82184eed21c307b8dba03dc0745ac08f860d3aab5f",
+      "purpose": "Version history without disclosed surprises"
+    },
+    {
+      "path": "DISTRIBUTION-STATUS.txt",
+      "bytes": 350,
+      "sha256": "96167df033ac3b408f29ec24d2f56eab72610631acdc7362c08b523be3930f9d",
+      "purpose": "Distribution information and reference to sharing terms"
+    },
+    {
+      "path": "DISTRIBUTION-TERMS.txt",
+      "bytes": 441,
+      "sha256": "d0c09b8dd30e1ddb1066e65067632a714e36acc1c9ae4cf04431152c308a8103",
+      "purpose": "Exact creator-approved attribution and sharing permissions"
+    },
+    {
+      "path": "GUIDE.md",
+      "bytes": 6519,
+      "sha256": "220efbe2a310c0f81d0f79bf8cb4846977127aa186b56cb3ed1e1733005eccec",
+      "purpose": "Controls, handheld remapping and 64-word bank"
+    },
+    {
+      "path": "MorseBoy.gb",
+      "bytes": 32768,
+      "sha256": "763ba6691293d1bd7ed5c4befbb725dbd75e7adda061d8bfda9dddae684bc168",
+      "purpose": "Approved unchanged Game Boy ROM"
+    },
+    {
+      "path": "README.md",
+      "bytes": 5637,
+      "sha256": "ecf4117ccbe2af9a9b31a45e1766f4120f657e4b7b39c80231452600a1c8b089",
+      "purpose": "Public overview, ordered screenshot gallery, credits and sharing"
+    },
+    {
+      "path": "RELEASE-NOTES.md",
+      "bytes": 2145,
+      "sha256": "83d1c7349a853da134e7086754c6cb97e5a33ee9fd342df67807bbbeecf3b5e9",
+      "purpose": "v0.6.0 features and limitations"
+    },
+    {
+      "path": "THIRD-PARTY-NOTICES.md",
+      "bytes": 2297,
+      "sha256": "092990ccf07d101cfb68ad8e553af617cfb0e9dfa625460e52d1953b0691c9cf",
+      "purpose": "Verified linked components and third-party acknowledgements"
+    },
+    {
+      "path": "notices/GBDK-LIBRARY-LICENSE.txt",
+      "bytes": 18919,
+      "sha256": "d3397277d163ad7de4e839490d1207e443c74477d09cb97d57dffd7013f1e3fe",
+      "purpose": "Verbatim installed GPLv2 text and GBDK linking exception"
+    },
+    {
+      "path": "notices/SDCC-LICENSE.txt",
+      "bytes": 8825,
+      "sha256": "0e89471daf77c310e9425f7609e8e35f7a076b3a1d285a55afd999508b296f18",
+      "purpose": "Verbatim installed SDCC licensing information"
+    },
+    {
+      "path": "screenshots/00-splash.png",
+      "bytes": 1599,
+      "sha256": "10eba20dde1db39bf5bb90abf863cf11cb96c7869795383ec966ec7aea7fdb18",
+      "purpose": "Actual approved-ROM capture; exact 2x nearest-neighbor scaling"
+    },
+    {
+      "path": "screenshots/01-main-menu.png",
+      "bytes": 1806,
+      "sha256": "30ca0ac98255165d0ea105f0c105e25f49dfef88627e694fbdf210b0c1396c1c",
+      "purpose": "Actual approved-ROM capture; exact 2x nearest-neighbor scaling"
+    },
+    {
+      "path": "screenshots/02-decoder.png",
+      "bytes": 2631,
+      "sha256": "2523572994766194f55128fd6c8fd4495450ace9f7b57b63edb31af7bae57036",
+      "purpose": "Actual approved-ROM capture; exact 2x nearest-neighbor scaling"
+    },
+    {
+      "path": "screenshots/02b-decoder-flipped.png",
+      "bytes": 2623,
+      "sha256": "dc680c7784bed4c703dd3a3a669b9325d62c338589571ed542e198d2e223edb8",
+      "purpose": "Actual approved-ROM capture; exact 2x nearest-neighbor scaling"
+    },
+    {
+      "path": "screenshots/03-rx-menu.png",
+      "bytes": 1654,
+      "sha256": "b9432775243eb9c7b2e0da33cdef9a8806c6fa43950c39dc049618b4c037dfe4",
+      "purpose": "Actual approved-ROM capture; exact 2x nearest-neighbor scaling"
+    },
+    {
+      "path": "screenshots/04-rx-learn.png",
+      "bytes": 2284,
+      "sha256": "8eceaa248c1ea447bf68601c88d6e0174f3d43d3099147b680e19e3ca0c6e2d2",
+      "purpose": "Actual approved-ROM capture; exact 2x nearest-neighbor scaling"
+    },
+    {
+      "path": "screenshots/05-rx-practice.png",
+      "bytes": 2164,
+      "sha256": "773e3182bee5a704a0dfa318aaf56942e379cdb784ead4a0539653251d3de240",
+      "purpose": "Actual approved-ROM capture; exact 2x nearest-neighbor scaling"
+    },
+    {
+      "path": "screenshots/06-tx-menu.png",
+      "bytes": 1829,
+      "sha256": "677abbb5dc366aad9087d198bd241676c816fe44ed1e1602d80c30221054dcc5",
+      "purpose": "Actual approved-ROM capture; exact 2x nearest-neighbor scaling"
+    },
+    {
+      "path": "screenshots/07-tx-speed.png",
+      "bytes": 1795,
+      "sha256": "e7b0541869efcc38b4d5df1dab92356acced0406debd54a42ae0118ac95230cd",
+      "purpose": "Actual approved-ROM capture; exact 2x nearest-neighbor scaling"
+    },
+    {
+      "path": "screenshots/08-tx-words.png",
+      "bytes": 1804,
+      "sha256": "7f6221a5ad59528ae103fbf61ebb07e26b577265f9fc71565359670645cb6a52",
+      "purpose": "Actual approved-ROM capture; exact 2x nearest-neighbor scaling"
+    },
+    {
+      "path": "screenshots/09-tx-scratch.png",
+      "bytes": 1628,
+      "sha256": "026108ea8a187da4cf7699f8d443e2f67620dcfdcd78af4b0db20e696d95e4e4",
+      "purpose": "Actual approved-ROM capture; exact 2x nearest-neighbor scaling"
+    }
+  ],
+  "checksum_scope": "Payloads listed here; SHA256SUMS.txt additionally covers this manifest. ZIP hash is external. No checksum file hashes itself."
+}
